@@ -8,7 +8,7 @@ version = "0.0.01"
 authors = [
   { name="Taha Shieenavaz", email="tahashieenavaz@gmail.com" },
 ]
-description = "An efficient PyTorch implementation of GAT (Graph Attention Transformer) Networks."
+description = "An efficient PyTorch implementation of GAT (Graph Attention) Networks."
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
